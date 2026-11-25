@@ -18,7 +18,6 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
-
 Two roads diverged in a yellow wood,  
 And sorry i could not travel both  
 And be one traveler, long i stood  
